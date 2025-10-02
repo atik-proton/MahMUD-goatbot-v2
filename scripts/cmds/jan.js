@@ -22,7 +22,7 @@ module.exports = {
   config: {
     name: "bot",
     version: "1.7",
-    author: "MahMUD",
+    author: "Eren Yeager",
     role: 0,
     category: "ai",
     guide: { 
